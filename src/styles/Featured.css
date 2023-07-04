@@ -1,0 +1,17 @@
+#featured-main {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25vh;
+}
+#featured-p{
+    font-size: 28px;
+    margin-bottom: 50px;
+}
+#featured-brands {
+    display: flex;
+    justify-content: space-between;
+}
+
+#featured-brand-img {
+    width: 200px;
+}

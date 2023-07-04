@@ -1,5 +1,6 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
+import Featured from "./sections/Featured";
 import LandingPage from "./sections/LandingPage";
 
 function App() {
@@ -10,6 +11,10 @@ function App() {
 
         {/* Landing Page */}
         <LandingPage/>
+
+        {/* Featured Section */}
+        <Featured/>
+
       </div>
     </>
   );

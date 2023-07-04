@@ -10,14 +10,15 @@
     list-style-type: none;
     align-items: center;
 }
-#nav-a{
+/* #nav-a{
     text-decoration: none;
+} */
+#nav-li{
     padding: 10px;
     margin: 0 10px;
-}
-#nav-li{
     color: #D7D7D7;
     font-size: 16px;
+    cursor: pointer;
     
 }
 #nav-btn{

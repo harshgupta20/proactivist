@@ -1,0 +1,134 @@
+#grow-main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 25vh;
+}
+#grow-title{
+    width: 100%;
+    text-align: center;
+}
+#grow-title-h2{
+    font-size: 60px;
+}
+#grow-content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 60px;
+}
+#grow-content-box1, #grow-content-box2{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    height: 450px;
+    margin-bottom: 40px;
+
+}
+#grow-content-box1-card1{
+    width: 78%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+
+    opacity: .6;
+}
+#grow-content-box1-card1-title{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0 0 60px 60px;
+    background: none;
+}
+#grow-content-box1-card1-h3{
+    background: none;
+    opacity: 1;
+    color: #BB6BD9;
+    font-size: 50px;
+}
+#grow-content-box1-card1-p{
+    background: none;
+    font-size: 20px;
+}
+
+#grow-content-box1-card2{
+    width: 20%;
+}
+#grow-content-box1-card2-img{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+
+
+#grow-content-box2{
+    width: 100%;
+    display: flex;
+}
+#grow-content-box2-card1{
+    width: 20%;
+}
+#grow-content-box2-card1-img{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 20px;
+}
+#grow-content-box2-card2{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100%; */
+    border-radius: 20px;
+    background-color: #121212;
+}
+#grow-content-box2-card2-content{
+    text-align: center;
+}
+#grow-content-box2-card2-h3{
+    color: #F2C94C;
+    font-size: 52px;
+    background-color: #121212;
+}
+#grow-content-box2-card2-p{
+    background-color: #121212;
+    font-size: 20px;
+}
+
+
+
+
+#grow-content-box2-card3{
+    width: 40%;
+}
+#grow-content-box2-card3{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100%; */
+    border-radius: 20px;
+    background-color: #121212;
+}
+#grow-content-box2-card3-content{
+    text-align: center;
+}
+#grow-content-box2-card3-h3{
+    color: #27AE60;
+    font-size: 52px;
+    background-color: #121212;
+}
+#grow-content-box2-card3-p{
+    background-color: #121212;
+    font-size: 20px;
+}

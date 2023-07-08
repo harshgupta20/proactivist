@@ -2,6 +2,7 @@
     width: 100%;
     display: flex;
     flex-direction: column;
+    margin-bottom: 25vh;
 }
 #blog_box1, #blog_box2, #blog_box3, #blog_box4{
     width: 100%;

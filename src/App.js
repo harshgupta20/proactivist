@@ -2,6 +2,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Blogs from "./sections/Blogs";
 import Featured from "./sections/Featured";
+import Growth from "./sections/Growth";
 import LandingPage from "./sections/LandingPage";
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
         <Featured/>
 
         <Blogs/>
+
+        <Growth/>
 
       </div>
     </>

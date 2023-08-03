@@ -20,7 +20,6 @@ function App() {
         <Blogs/>
 
         <Growth/>
-
       </div>
     </>
   );
